@@ -119,4 +119,4 @@ I also share what I learn on my media channel <a href="https://www.instagram.com
 ---
 
 ## ✨ Let's Connect & Build Something Great!
-💼 [Portfolio](https://mrehman365.github.io) • 📧 [Email Me](mailto:your@email.com) • 💬 [Telegram](https://t.me/mrehman365)
+💼 [Portfolio](https://portfolio-premium.vercel.app/) • 📧 [Email Me](mailto:rehmanarshad365@gmail.com)
