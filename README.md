@@ -34,7 +34,7 @@
 ---
 
 <p align="justify">
-👋 Welcome to my GitHub! I'm <b>M Rehman</b>, a passionate <b>Full Stack MERN & Next.js Developer</b> with 10+ months of professional experience at <b>Maxify Web Solutions</b>.  
+👋 Welcome to my GitHub! I'm <b>M Rehman</b>, a passionate <b>Full Stack MERN & Next.js Developer</b> with 2+ years of professional experience at <b>Maxify Web Solutions</b>.  
 I love crafting user-friendly interfaces, creating efficient APIs, and bringing ideas to life through modern web technologies.  
 I also share what I learn on my media channel <a href="https://www.instagram.com/m.rehman3355/">@m.rehman3355</a> — helping others grow in programming.
 </p>
